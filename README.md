@@ -1,6 +1,6 @@
 # Trackify
 
-> App that tracks your run
+> App that tracks your run and marks on Map and saves the image of map along with different information like distance measured, calories burned, speed. 
 
 <p align="middle">
     <img width="200" src="https://github.com/manan-jain/RunningApp/blob/master/screenshots/ss1.png">
@@ -20,7 +20,7 @@ MVVM provides a clear separation of concern and has great support in Android SDK
     * [Room][4] - Access your app's SQLite database with in-app objects and compile-time checks.
     * [ViewModel][5] - Store UI-related data that isn't destroyed on app rotations. Easily schedule
       asynchronous tasks for optimal execution.
-    * [Dagger][6] - For Dependeny Injection
+    * [Dagger][6] - For Dependency Injection
     * [Navigation][11] - Handle everything needed for in-app navigation.
     * [Google Maps][2] - To integrate map to track accurate location
 * Third party
