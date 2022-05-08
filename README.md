@@ -2,6 +2,8 @@
 
 > App that tracks your run and marks on Map and saves the image of map along with different information like distance measured, calories burned, speed. 
 
+
+
 <p align="middle">
     <img width="200" src="https://github.com/manan-jain/RunningApp/blob/master/screenshots/ss1.png">
     <img width="200" src="https://github.com/manan-jain/RunningApp/blob/master/screenshots/ss3.png">
