@@ -4,7 +4,6 @@
 
 <p align="middle">
     <img width="200" src="https://github.com/manan-jain/RunningApp/blob/master/screenshots/ss1.png">
-    <img width="200" src="https://github.com/manan-jain/RunningApp/blob/master/screenshots/ss2.png">
     <img width="200" src="https://github.com/manan-jain/RunningApp/blob/master/screenshots/ss3.png">
     <img width="200" src="https://github.com/manan-jain/RunningApp/blob/master/screenshots/ss4.png">
     <img width="200" src="https://github.com/manan-jain/RunningApp/blob/master/screenshots/ss5.png">
