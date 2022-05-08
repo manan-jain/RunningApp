@@ -47,5 +47,5 @@ There are 2 versions of this project. One uses [dagger-android][6] for dependenc
 
 |     Sample     | Description |
 | ------------- | ------------- |
-| [dagger-hilt](https://github.com/SpiralDevelopment/CryptoTracker/tree/master) | Dagger Hilt version |
-| [dagger-android](https://github.com/SpiralDevelopment/CryptoTracker/tree/dagger-android) | Dagger Android version
+| [dagger-hilt](https://developer.android.com/training/dependency-injection/dagger-android) | Dagger Hilt version |
+| [dagger-android](https://developer.android.com/training/dependency-injection/hilt-android) | Dagger Android version
