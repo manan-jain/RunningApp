@@ -1,8 +1,6 @@
 # Trackify
 
-> App that tracks your run and marks on Map and saves the image of map along with different information like distance measured, calories burned, speed. 
-
-
+> App that tracks your run and marks on Map and saves the image of map along with different information like distance measured, calories burned, speed.
 
 <p align="middle">
     <img width="200" src="https://github.com/manan-jain/RunningApp/blob/master/screenshots/ss1.png">
@@ -42,5 +40,3 @@ MVVM provides a clear separation of concern and has great support in Android SDK
 [9]: https://github.com/PhilJay/MPAndroidChart
 [10]: https://developer.android.com/training/dependency-injection/hilt-android
 [11]: https://developer.android.com/topic/libraries/architecture/navigation/
-
-## Variations
