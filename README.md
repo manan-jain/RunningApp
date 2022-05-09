@@ -44,10 +44,3 @@ MVVM provides a clear separation of concern and has great support in Android SDK
 [11]: https://developer.android.com/topic/libraries/architecture/navigation/
 
 ## Variations
-
-There are 2 versions of this project. One uses [dagger-android][6] for dependency injection, another one uses [dagger-hilt][10]. You see that dependency injection with dagger-hilt is simpler.
-
-|     Sample     | Description |
-| ------------- | ------------- |
-| [dagger-hilt](https://developer.android.com/training/dependency-injection/dagger-android) | Dagger Hilt version |
-| [dagger-android](https://developer.android.com/training/dependency-injection/hilt-android) | Dagger Android version
