@@ -3,10 +3,10 @@
 > App that tracks your run and marks on Map and saves the image of map along with different information like distance measured, calories burned, speed.
 
 <p align="middle">
-    <img width="200" src="https://github.com/manan-jain/RunningApp/blob/master/screenshots/ss1.png">
-    <img width="200" src="https://github.com/manan-jain/RunningApp/blob/master/screenshots/ss3.png">
-    <img width="200" src="https://github.com/manan-jain/RunningApp/blob/master/screenshots/ss4.png">
-    <img width="200" src="https://github.com/manan-jain/RunningApp/blob/master/screenshots/ss5.png">
+    <img width="200" src="https://user-images.githubusercontent.com/62428616/179186500-09a96b5d-18fa-41ee-9b28-ddd44c074461.png">
+    <img width="200" src="https://user-images.githubusercontent.com/62428616/179186610-c6211e25-9748-495a-bdc1-dc6c6b2b4888.png">
+    <img width="200" src="https://user-images.githubusercontent.com/62428616/179186694-c5a49582-43aa-4b0b-96ec-8f3c70b7ab51.png">
+    <img width="200" src="https://user-images.githubusercontent.com/62428616/179186818-1e643224-33e4-464b-8a11-bfc6ccbbbfdb.png">
 </p>
 
 ## Architecture
